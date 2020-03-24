@@ -1,0 +1,16 @@
+Main assignment
+
+* Datascrape worldometer's site every night and convert today's table into a .csv file using Flomo's code
+* Create code that changes code from 
+* Upload the .csv files into SQL
+* Create regional areas which will create our maps
+* Create filters to sort the countries or states into these regions
+* Find geocode maps for these regions
+* Find polygons that correspond with the different countries or states
+* Develop the Plot.ly code that will create the bubble chart we want, complete with changing layouts
+
+Wish list
+
+* Projection models??
+* Research travel/quarantine policies of select countries
+* What info can we get from John Hopkins' site?
