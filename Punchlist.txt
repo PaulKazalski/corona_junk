@@ -2,12 +2,19 @@ Main assignment
 
 * Datascrape worldometer's site every night and convert today's table into a .csv file using Flomo's code
 * Create code that changes code from 
-* Upload the .csv files into SQL
-* Create regional areas which will create our maps
-* Create filters to sort the countries or states into these regions
-* Find geocode maps for these regions
-* Find polygons that correspond with the different countries or states
+* Upload the .csv files into SQL (assigned to MARIA)
+* Create regional areas which will create our maps (begins with CONTINENTAL US)
+* Create filters to sort the countries or states into these regions (DEFERRED)
+* Find geocode maps for these regions 
+* Find polygons that correspond with the different countries or states (assigned to WILL)
 * Develop the Plot.ly code that will create the bubble chart we want, complete with changing layouts
+* Find parameters for geoCode, continental US (assigned to PAUL and MEGHNA)
+
+Determined side project
+
+* Duplicate NJ.com's "Jersey by County" cases
+* Compare COV-ID19 to other deadly diseases
+
 
 Wish list
 
