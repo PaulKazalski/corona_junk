@@ -7,3 +7,4 @@
 5. Polygons are not necessary?  Apparently MapBox overlays takes care of this.
 6. We need to find some API to use.
 7. Two side projects have been established - a. COVID vs. other viruses and b. counties of NJ.
+
