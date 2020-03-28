@@ -22,4 +22,4 @@ var marker = L.marker([45.52, -122.67], {
 }).addTo(myMap);
 
 // Binding a pop-up to our marker
-marker.bindPopup("Hello There!");
+marker.bindPopup("Hospital Beds");
