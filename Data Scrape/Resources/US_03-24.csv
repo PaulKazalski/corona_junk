@@ -1,0 +1,58 @@
+,USAState,TotalCases,NewCases,TotalDeaths,NewDeaths,ActiveCases
+0,New York,26348,"+5,473",271.0,114.0,25969
+1,New Jersey,3675,+831,44.0,17.0,3631
+2,California,2566,+433,51.0,11.0,2507
+3,Washington,2469,+248,123.0,13.0,2222
+4,Michigan,1791,+463,24.0,9.0,1767
+5,Illinois,1535,+250,16.0,4.0,1517
+6,Florida,1467,+240,20.0,2.0,1447
+7,Louisiana,1388,+216,46.0,11.0,1342
+8,Massachusetts,1159,+382,11.0,2.0,1147
+9,Georgia,1097,+294,38.0,12.0,1059
+10,Texas,1023,+217,12.0,3.0,1000
+11,Colorado,912,+192,11.0,4.0,901
+12,Pennsylvania,851,+207,7.0,1.0,844
+13,Tennessee,773,+158,2.0,,771
+14,Connecticut,618,+203,12.0,2.0,606
+15,Ohio,564,+122,8.0,2.0,556
+16,North Carolina,498,+88,,,498
+17,Wisconsin,457,+41,5.0,,451
+18,Indiana,365,+106,12.0,5.0,353
+19,Maryland,349,+61,4.0,1.0,341
+20,South Carolina,342,+43,5.0,,337
+21,Arizona,326,+92,5.0,3.0,318
+22,Mississippi,320,+71,1.0,,319
+23,Utah,298,+41,1.0,,297
+24,Virginia,290,+36,7.0,,281
+25,Nevada,278,+33,4.0,,274
+26,Missouri,270,+74,8.0,3.0,260
+27,Minnesota,262,+27,1.0,,173
+28,Alabama,242,+46,,,242
+29,Arkansas,232,+35,2.0,2.0,220
+30,Oregon,209,+18,5.0,,204
+31,District Of Columbia,183,+46,2.0,,181
+32,Kentucky,157,+33,4.0,,151
+33,Iowa,124,+19,,,124
+34,Rhode Island,124,+18,,,124
+35,Maine,118,+11,,,115
+36,New Hampshire,108,+7,1.0,,107
+37,Oklahoma,106,+25,3.0,1.0,102
+38,Delaware,104,+36,,,104
+39,New Mexico,100,+17,,,100
+40,Kansas,98,+16,2.0,,96
+41,Vermont,95,+20,7.0,2.0,88
+42,Hawaii,90,+13,1.0,1.0,89
+43,Idaho,81,+34,,,81
+44,Nebraska,61,+11,,,61
+45,Montana,46,+1,,,46
+46,Alaska,36,+4,,,36
+47,North Dakota,34,+2,,,34
+48,South Dakota,30,+2,1.0,,21
+49,Wyoming,30,+4,,,30
+50,West Virginia,20,+4,,,20
+51,Guam,32,+3,1.0,,31
+52,Puerto Rico,39,+8,2.0,,36
+53,United States Virgin Islands,17,,,,17
+54,Wuhan Repatriated,3,,,,3
+55,Diamond Princess Cruise,46,,,,46
+56,Total:,68203,11075,1027.0,225.0,66782
