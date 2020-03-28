@@ -1,0 +1,24 @@
+REQUIREMENTS FOR OUR PROJECT (Maria is the original author)
+
+Tell a story use 1 of the following:
+	• custom "creative" D3.js project (nonstandard graph or chart)
+	• web scraping and Leaflet or Plotly
+	• dashboard with multiple charts that update from the same data
+	• "thick" sever that performs multiple manipulations on data in a database prior to visualization (MUST BE APPROVED)
+We need to use:
+	• D3 interactive visualizations 
+	• Python flask - use all:
+		○ API
+		○ HTML/CSS,
+		○ Javascript
+	• Databasese - use 1:
+		○ SQL
+		○ MongoDB
+		○ SQLit
+		○ etc
+	• JS Library not covered in class - Vikas and Arin to send examples
+Must have: 
+	• at least 100 records
+	• user-driven interaction (e.g., menus, dropdowns, textboxes)
+	• Have at least three views
+10 minute presentation

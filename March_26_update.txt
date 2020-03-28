@@ -1,0 +1,10 @@
+1. Friday is going to be a day of research - we're going to figure out exactly what API's,
+   visualization tools, etc. we want to do our work.
+2. Meghna and Paul will work on the continental US and Asian map, respectively.  
+   They will cross-collaborate when needed.
+3. Maria will input the .csv files into SQL
+4. Will is going to do some research on the nj.com API code
+5. Polygons are not necessary?  Apparently MapBox overlays takes care of this.
+6. We need to find some API to use.
+7. Two side projects have been established - a. COVID vs. other viruses and b. counties of NJ.
+
