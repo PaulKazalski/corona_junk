@@ -18,7 +18,7 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 // Pass in some initial options, and then add it to the map using the addTo method
 var marker = L.marker([45.52, -122.67], {
   draggable: true,
-  title: "My First Marker"
+  title: "Covid-19"
 }).addTo(myMap);
 
 // Binding a pop-up to our marker
