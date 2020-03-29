@@ -1,14 +1,15 @@
 Main assignment
 
-* Datascrape worldometer's site every night and convert today's table into a .csv file using Flomo's code
-* Create code that changes code from 
-* Upload the .csv files into SQL (assigned to MARIA)
+* Datascrape worldometer's site every night and convert today's table into a .csv file using Flomo's code (Update: Flomo created the code)
+* Upload the .csv files into SQL (assigned to MARIA... DONE!)
 * Create regional areas which will create our maps (begins with CONTINENTAL US)
 * Create filters to sort the countries or states into these regions (DEFERRED)
 * Find geocode maps for these regions 
 * Find polygons that correspond with the different countries or states (assigned to WILL)
 * Develop the Plot.ly code that will create the bubble chart we want, complete with changing layouts
 * Find parameters for geoCode, continental US (assigned to PAUL and MEGHNA)
+* Read the SQL files into JavaScript (assigned to MARIA)
+* Work on Bubble map (assigned to FLOMO)
 
 Determined side project
 
