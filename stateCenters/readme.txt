@@ -4,4 +4,4 @@ Right now, markers are created for New York and California.
 
 The goal is to create markers for all 48 states, on the correct location.
 
-You may use whatever method you choose, including just typing the damn things in manual
+You may use whatever method you choose, including just typing the damn things in manually.
