@@ -1,0 +1,9 @@
+Flomo is working on the Flask application which automatically sends the scraped data into a database without going through . 
+
+Maria is creating the HTML/CSS skeleton.
+
+Meghna is creating the bubbles for our bubble chart visualization.
+
+Will will find some way to assign the right lat/lon to each state.
+
+Paul is working on formatting the slider.
