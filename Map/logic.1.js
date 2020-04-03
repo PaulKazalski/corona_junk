@@ -59,7 +59,7 @@ if (cities[i].totaldeaths > 150) {
 else if (cities[i].totaldeaths > 50) {
   color = "blue";
 }
-else if (cities[i].totaldeaths = 0 ){
+else if (cities[i].totaldeaths < 20 ){
   color = "green";
 }
 else {
@@ -72,7 +72,7 @@ else {
     fillColor: "red",
     // Setting our circle's radius equal to the output of our markerSize function
     // This will make our marker's size proportionate to its population
-    radius: cities[i].totaldeaths * 1500
+    radius: cities[i].totaldeaths 
   }).bindPopup("<h1>" + cities[i].name + "</h1> <hr> <h3>Population: " + cities[i].totaldeaths + "</h3>").addTo(myMap);
 }
 
