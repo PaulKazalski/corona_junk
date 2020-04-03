@@ -1,0 +1,4 @@
+This is the area where we will fill our data.
+The Excel file will do half the work for you.  just follow the instructions, and a chart will be created for you.
+All you need to do is fill in the blanks in a way that makes sense.
+THere are 5 sheets, 1 for each person...
