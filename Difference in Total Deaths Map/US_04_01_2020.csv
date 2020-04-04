@@ -1,0 +1,50 @@
+Date,ID ,USA State,Total Cases,New Cases,TotalDeathsLastDay,New Deaths,Active Cases,Latitude,Longitude,USAState,TotalDeathsDayOne,DifferenceinTotalDeaths
+1-Apr,25,Alabama,1261,153,32,4,1229,39.113014,-86.902298,Alabama,0,32
+1-Apr,22,Arizona,1598,185,32,3,1563,33.836082,-111.093735,Arizona,5,27
+1-Apr,33,Arkansas,683,99,12,2,621,34.799999,-92.199997,Arkansas,2,10
+1-Apr,2,California,10838,"1,031",234,24,9754,39.045753,-119.417931,California,51,183
+1-Apr,13,Colorado,3728,386,97,17,3631,47.751076,-105.358887,Colorado,11,86
+1-Apr,12,Connecticut,3824,267,112,27,3712,41.599998,-72.699997,Connecticut,12,100
+1-Apr,40,Delaware,393,25,12,1,332,39,-75.5,Delaware,0,12
+1-Apr,35,District Of Columbia,653,67,12,1,468,35.782169,-77.0369,District Of Columbia,2,10
+1-Apr,5,Florida,9008,"1,235",144,43,8864,27.994402,-81.760254,Florida,20,124
+1-Apr,10,Georgia,5348,600,163,9,5185,33.247875,-83.441162,Georgia,38,125
+1-Apr,28,Idaho,891,218,9,,882,42.407211,-114.742043,Idaho,0,9
+1-Apr,7,Illinois,7695,715,157,16,7536,40,-89,Illinois,16,141
+1-Apr,15,Indiana,3039,474,78,13,2961,40.273502,-86.126976,Indiana,12,66
+1-Apr,36,Iowa,614,65,11,2,585,40.367474,-93.581543,Iowa,0,11
+1-Apr,37,Kansas,552,70,13,3,539,38.5,-98,Kansas,2,11
+1-Apr,31,Kentucky,770,90,31,11,675,37.926868,-84.27002,Kentucky,4,27
+1-Apr,4,Louisiana,9150,"2,726",310,37,8820,43.07597,-92.329102,Louisiana,46,264
+1-Apr,41,Maine,376,32,7,,275,45.367584,-68.972168,Maine,0,7
+1-Apr,17,Maryland,2331,346,36,5,2214,41.203323,-76.641273,Maryland,4,32
+1-Apr,6,Massachusetts,8966,"1,228",154,32,8802,34.048927,-71.382439,Massachusetts,11,143
+1-Apr,3,Michigan,10791,"1,457",417,80,10369,44.182205,-84.506836,Michigan,24,393
+1-Apr,32,Minnesota,742,53,18,1,436,37.839333,-94.63623,Minnesota,1,17
+1-Apr,26,Mississippi,1177,104,26,4,1151,33,-90,Mississippi,1,25
+1-Apr,19,Missouri,1834,253,19,1,1813,38.573936,-92.60376,Missouri,8,11
+1-Apr,45,Montana,227,10,6,,221,46.39241,-109.533691,Montana,0,6
+1-Apr,44,Nebraska,246,36,5,1,241,41.5,-100,Nebraska,0,5
+1-Apr,24,Nevada,1458,179,38,12,1420,39.876019,-117.224121,Nevada,4,34
+1-Apr,38,New Hampshire,479,64,5,1,383,44,-71.5,New Hampshire,1,4
+1-Apr,1,New Jersey,25590,3335,537,182,25053,40.72422,-74.172574
+1-Apr,39,New Mexico,403,40,7,1,396,32.31823,-106.018066,New Mexico,0,7
+1-Apr,0,New York,93053,"9,152",2538,319,83081,43,-75,New York,271,2267
+1-Apr,18,North Carolina,2023,306,18,3,1985,44.068203,-80.793457,North Carolina,0,18
+1-Apr,48,North Dakota,159,17,3,,113,39.833851,-100.437012,North Dakota,0,3
+1-Apr,16,Ohio,2902,355,81,16,2821,39.41922,-82.996216,Ohio,8,73
+1-Apr,29,Oklahoma,879,160,34,4,844,47.650589,-96.921387,Oklahoma,3,31
+1-Apr,30,Oregon,826,90,21,2,805,44,-120.5,Oregon,5,16
+1-Apr,8,Pennsylvania,7264,"1,262",90,16,7136,34.307144,-77.194527,Pennsylvania,7,83
+1-Apr,34,Rhode Island,657,91,12,2,645,41.700001,-71.5,Rhode Island,0,12
+1-Apr,23,South Carolina,1554,261,31,5,1523,42.032974,-81.163727,South Carolina,5,26
+1-Apr,47,South Dakota,165,36,2,,106,44.5,-100,South Dakota,1,1
+1-Apr,14,Tennessee,3194,511,32,7,2942,19.741755,-86.660156,Tennessee,2,30
+1-Apr,11,Texas,4823,755,77,17,4639,31,-100,Texas,12,65
+1-Apr,27,Utah,1074,62,7,,1067,46.96526,-111.950684,Utah,1,6
+1-Apr,42,Vermont,338,17,17,1,321,44,-72.699997,Vermont,7,10
+1-Apr,21,Virginia,1706,222,41,7,1663,66.160507,-78.024902,Virginia,7,34
+1-Apr,9,Washington,6585,741,272,22,5750,36.084621,-120.740135,Washington,123,149
+1-Apr,46,West Virginia,217,26,2,,215,39,-80.5,West Virginia,0,2
+1-Apr,20,Wisconsin,1730,180,38,13,1690,44.5,-89.5,Wisconsin,5,33
+1-Apr,49,Wyoming,150,13,,,124,36.778259,-107.290283,Wyoming,0,0
